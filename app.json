@@ -1,0 +1,56 @@
+{
+  "pages":[
+    "pages/one/one",
+    "pages/two/two",
+    "pages/three/three",
+    "pages/four/four",
+    "pages/five/five",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "Weixin",
+    "navigationBarTextStyle":"black"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json",
+  "tabBar": {
+    "custom": true,
+    "color": "#868686",
+    "position": "bottom",
+    "selectedColor": "#FF2020",
+    "list": [{
+      "pagePath": "pages/one/one",
+      "text": "one",
+      "iconPath": "images/one.png",
+      "selectedIconPath": "images/one_cur.png"
+    },
+    {
+      "pagePath": "pages/two/two",
+      "text": "two",
+      "iconPath": "images/two.png",
+      "selectedIconPath": "images/two_cur.png"
+    },
+    {
+      "pagePath": "pages/three/three",
+      "text": "three",
+      "iconPath": "images/three.png",
+      "selectedIconPath": "images/three.png"
+    },
+    {
+      "pagePath": "pages/four/four",
+      "text": "four",
+      "iconPath": "images/four.png",
+      "selectedIconPath": "images/four_cur.png"
+    },
+    {
+      "pagePath": "pages/five/five",
+      "text": "five",
+      "iconPath": "images/five.png",
+      "selectedIconPath": "images/five_cur.png"
+    }
+
+  ]
+  }
+}

@@ -1,0 +1,4 @@
+<!--pages/three/three.wxml-->
+<text>pages/three/three.wxml</text>
+  <!-- 底部导航栏 -->
+  <custom-tabbar data-tel="2"/>

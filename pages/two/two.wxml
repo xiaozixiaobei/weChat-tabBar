@@ -1,0 +1,4 @@
+<!--pages/two/two.wxml-->
+<text>pages/two/two.wxml</text>
+  <!-- 底部导航栏 -->
+  <custom-tabbar data-tel="1"/>

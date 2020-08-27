@@ -1,0 +1,4 @@
+<!--pages/five/five.wxml-->
+<text>pages/five/five.wxml</text>
+  <!-- 底部导航栏 -->
+  <custom-tabbar data-tel="4"/>
